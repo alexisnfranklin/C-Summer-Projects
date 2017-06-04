@@ -1,2 +1,3 @@
-# C-Summer-Projects
-Independent projects I'm working on over the summer to learn Visual Studio and C#
+# Hangman
+Completed June 3, 2017; first project completed in C#/Visual Studio
+Requires a file in the CreateWords() method
